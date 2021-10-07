@@ -14,7 +14,9 @@ More details refer to my **PINNED** repo below :point_down:
 
 ![BreezeWhite's GitHub stats](https://github-readme-stats.vercel.app/api?username=BreezeWhite&show_icons=true&theme=dracula)
 
-![](figures/cat.jpg)
+<p align='left'>
+    <img width="50%" src="cat.jpg">
+</p>
 
 <!--
 **BreezeWhite/BreezeWhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

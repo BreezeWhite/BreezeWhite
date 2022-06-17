@@ -1,10 +1,11 @@
 ## Yo Yo Check It OUT :metal:
 
-Most of the time I'm an AI Engineer, and the rest of the time learning to be a *Backend Engineer*.
+Was an AI engineer. Currently working [@Pinkoi](https://www.pinkoi.com/about/careers) as a *Backend Enigneer*.
 
 ### Backend Experience
 - Was an intern at TrendMicro, Infra team (AWS) for one year.
 - Backend engineer at Meteo. `FastAPI + Celery + RabbitMQ = Distributed System.`
+- Backend engineer at Pinkoi, deal with *MONEY :dollar:* and *COURIER :truck:* issues everyday.
 
 ### AI
 - :musical_keyboard: Music Transcription, Research Assistent [@MCTLab](https://github.com/Music-and-Culture-Technology-Lab)

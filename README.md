@@ -1,11 +1,15 @@
 ## Yo Yo Check It OUT :metal:
 
-Was an AI engineer. Currently working [@Pinkoi](https://www.pinkoi.com/about/careers) as a *Backend Enigneer*.
+An AI & backend engineer. Love to explore unknown things, therefore prefer being an AI enthusiast more.
+
+Ability to refactor / rearrange code is my superpower (check [here](https://github.com/BreezeWhite/interesting-colabs)).
+
+Japan ACG culture super lover. Already can't live without lovely things :heart:
 
 ### Backend Experience
 - Was an intern at TrendMicro, Infra team (AWS) for one year.
 - Backend engineer at Meteo. `FastAPI + Celery + RabbitMQ = Distributed System.`
-- Backend engineer at Pinkoi, deal with *MONEY :dollar:* and *COURIER :truck:* issues everyday.
+- Backend engineer at [Pinkoi](https://www.pinkoi.com/about/careers), deal with *MONEY :dollar:* and *COURIER :truck:* issues everyday.
 
 ### AI
 - :musical_keyboard: Music Transcription, Research Assistent [@MCTLab](https://github.com/Music-and-Culture-Technology-Lab)
@@ -22,18 +26,3 @@ Have a chill day~
 <p align='left'>
     <img width="50%" src="cat.jpg">
 </p>
-
-<!--
-**BreezeWhite/BreezeWhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

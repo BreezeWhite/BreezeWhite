@@ -1,27 +1,42 @@
 ## Yo Yo Check It OUT :metal:
 
-An AI & backend engineer. Love to explore unknown things, therefore prefer being an AI enthusiast more.
-
-Ability to refactor / rearrange code is my superpower (check [here](https://github.com/BreezeWhite/interesting-colabs)).
+An AI & backend engineer. Learning and exploring between the two totally different fields brings lots of joy to me.
 
 Japan ACG culture super lover. Already can't live without lovely things :heart:
 
+### Programming Language
+- Super ***PYTHON*** advocator 🐍. Live in zen with the philosophy of Python as a proud Pythonist.
+- C & C++ was my first learned language.
+- After that played in Java world for a while.
+- Know very few about Javascript and Golang.
+
 ### Backend Experience
-- Was an intern at TrendMicro, Infra team (AWS) for one year.
-- Backend engineer at Meteo. `FastAPI + Celery + RabbitMQ = Distributed System.`
-- Backend engineer at [Pinkoi](https://www.pinkoi.com/about/careers), deal with *MONEY :dollar:* and *COURIER :truck:* issues everyday.
+- Love to build API backend services with [FastAPI](https://fastapi.tiangolo.com/).
+- Stayed in different industries: E-commerce, financial startup.
+- Other not very intereseting, conventional backend stuffs used in my daily work:
+    - Postgresql / MySQL
+    - Redis
+    - Grafana
+    - Prometheus
+    - Docker
+    - Kubernetes on GCP
+    - Github Actions / CloudBuild
+- Played some times ago
+    - RabbitMQ + Celery [repo](https://github.com/BreezeWhite/simple-fastapi)
 
 ### AI
-- :musical_keyboard: Music Transcription, Research Assistent [@MCTLab](https://github.com/Music-and-Culture-Technology-Lab)
-- :notes: Optical Music Recognition [@Meteo](https://github.com/meteo-team)
+- Mostly about Music Information Retrieval
+    - :musical_keyboard: Multi-Pitch Estimation (MPE) [omnizart](https://github.com/Music-and-Culture-Technology-Lab/omnizart)
+    - :mag: Optical Music Recognition (OMR) [oemer](https://github.com/BreezeWhite/oemer)
+- Recently playing around 3D human reconstruction [repo](https://github.com/BreezeWhite/pifuhd)
 
-More details refer to my **PINNED** repo below :point_down:
+### Other Random Stuffs
+- Bring interesting open source projects to everyone's front ([colabs](https://github.com/BreezeWhite/interesting-colabs)).
+- Half-automatic Taiwan High Speed Railway ticket booking bot [repo](https://github.com/BreezeWhite/THSR-Ticket)
+- Segment people in image made easy (rewrite version with colab provided) [repo](https://github.com/BreezeWhite/segpeo)
 
-...or just look at how adorable the little kitty is (-w-) Sleeps so well :relieved:
 
-Have a chill day~
-
-![BreezeWhite's GitHub stats](https://github-readme-stats.vercel.app/api?username=BreezeWhite&show_icons=true&theme=dracula)
+Wish you a chill day~ :relieved:
 
 <p align='left'>
     <img width="50%" src="cat.jpg">

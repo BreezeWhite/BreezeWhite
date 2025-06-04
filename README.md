@@ -16,8 +16,9 @@ Japan ACG culture super lover. Already can't live without lovely things :heart:
 ### Projects I am proud of & Loved by the community
 - :star: All-in-one AI music toolbox [omnizart](https://github.com/Music-and-Culture-Technology-Lab/omnizart) ![GitHub Repo stars](https://img.shields.io/github/stars/Music-and-Culture-Technology-Lab/omnizart?style=flat&color=274ff2)
 - :musical_score: Turn your music sheet image into audible melody [oemer](https://github.com/BreezeWhite/oemer) ![GitHub Repo stars](https://img.shields.io/github/stars/BreezeWhite/oemer?style=flat&color=ff6200)
-- :bullettrain_side: Taiwan High Speed Railway (THSR) ticket booking CLI [THSR-Ticket](https://github.com/BreezeWhite/THSR-Ticket) ![GitHub Repo stars](https://img.shields.io/github/stars/BreezeWhite/THSR-Ticket?style=flat&color=f24c27)
+- :bullettrain_side: Taiwan High Speed Railway (THSR) ticket booking CLI [THSR-Ticket](https://github.com/BreezeWhite/THSR-Ticket) ![GitHub Repo stars](https://img.shields.io/github/stars/BreezeWhite/THSR-Ticket?style=flat&color=f24c27) [thsr-ticket-rs](https://github.com/BreezeWhite/thsr-ticket-rs) ![GitHub Repo stars](https://img.shields.io/github/stars/BreezeWhite/thsr-ticket-rs?style=flat&color=f7e55e)
 - :desktop_computer: Very easy-to-use AI colab collections [interesting-colabs](https://github.com/BreezeWhite/interesting-colabs) ![GitHub Repo stars](https://img.shields.io/github/stars/BreezeWhite/interesting-colabs?style=flat&color=8ed943)
+- :musical_note: Correct your skewed sheet image [muskew](https://github.com/BreezeWhite/muskew) ![GitHub Repo stars](https://img.shields.io/github/stars/BreezeWhite/muskew?style=flat&color=34ccd1)
 
 #### Also other funny tiny project
 - :standing_man: 3D human reconstruction [pifuhd](https://github.com/BreezeWhite/pifuhd)

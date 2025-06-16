@@ -19,6 +19,9 @@ Japan ACG culture super lover. Already can't live without lovely things :heart:
 - :bullettrain_side: Taiwan High Speed Railway (THSR) ticket booking CLI [THSR-Ticket](https://github.com/BreezeWhite/THSR-Ticket) ![GitHub Repo stars](https://img.shields.io/github/stars/BreezeWhite/THSR-Ticket?style=flat&color=f24c27) [thsr-ticket-rs](https://github.com/BreezeWhite/thsr-ticket-rs) ![GitHub Repo stars](https://img.shields.io/github/stars/BreezeWhite/thsr-ticket-rs?style=flat&color=f7e55e)
 - :desktop_computer: Very easy-to-use AI colab collections [interesting-colabs](https://github.com/BreezeWhite/interesting-colabs) ![GitHub Repo stars](https://img.shields.io/github/stars/BreezeWhite/interesting-colabs?style=flat&color=8ed943)
 - :musical_note: Correct your skewed sheet image [muskew](https://github.com/BreezeWhite/muskew) ![GitHub Repo stars](https://img.shields.io/github/stars/BreezeWhite/muskew?style=flat&color=34ccd1)
+- :hammer_and_wrench: Bitfinex API Rust Library & CLI tool [bfx-rs](https://github.com/BreezeWhite/bfx-rs) ![GitHub Repo stars](https://img.shields.io/github/stars/BreezeWhite/bfx-rs?style=flat&color=aa42f5)
+- :notes: Origins of My Music AI Journey [Music Transcription](https://github.com/BreezeWhite/Music-Transcription-with-Semantic-Segmentation) ![GitHub Repo stars](https://img.shields.io/github/stars/BreezeWhite/Music-Transcription-with-Semantic-Segmentation?style=flat&color=b3e069)
+
 
 #### Also other funny tiny project
 - :standing_man: 3D human reconstruction [pifuhd](https://github.com/BreezeWhite/pifuhd)

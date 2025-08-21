@@ -21,7 +21,8 @@ Japan ACG culture super lover. Already can't live without lovely things :heart:
 - :musical_note: Correct your skewed sheet image [muskew](https://github.com/BreezeWhite/muskew) ![GitHub Repo stars](https://img.shields.io/github/stars/BreezeWhite/muskew?style=flat&color=34ccd1)
 - :hammer_and_wrench: Bitfinex API Rust Library & CLI tool [bfx-rs](https://github.com/BreezeWhite/bfx-rs) ![GitHub Repo stars](https://img.shields.io/github/stars/BreezeWhite/bfx-rs?style=flat&color=aa42f5)
 - :notes: Origins of My Music AI Journey [Music Transcription](https://github.com/BreezeWhite/Music-Transcription-with-Semantic-Segmentation) ![GitHub Repo stars](https://img.shields.io/github/stars/BreezeWhite/Music-Transcription-with-Semantic-Segmentation?style=flat&color=b3e069)
-
+- :libra: Benchmarks of different Rust big number crates [BigBench](https://github.com/BreezeWhite/BigBench/) ![GitHub Repo stars](https://img.shields.io/github/stars/BreezeWhite/BigBench?style=flat&color=ad9528)
+- :white_circle: Exploration of different PI calculation algorithms with Rust [calc_pi](https://github.com/BreezeWhite/calc_pi) ![GitHub Repo stars](https://img.shields.io/github/stars/BreezeWhite/calc_pi?style=flat&color=92edf7)
 
 #### Also other funny tiny project
 - :standing_man: 3D human reconstruction [pifuhd](https://github.com/BreezeWhite/pifuhd)
